@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: lucky~zBM20LzK#iXU91WF3C-CgLJtZfWr4fXejkKKngKFreizFgfkaGhQ
+SESSION_ID:lucky~zBM20LzK#iXU91WF3C-CgLJtZfWr4fXejkKKngKFreizFgfkaGhQ
 
 // add your Session Id make sure it starts with lucky~
 PREFIX: process.env.PREFIX || ".",
@@ -69,10 +69,10 @@ LINK_WHITELIST: "youtube.com,github.com",
           DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-          OWNER_NUMBER: process.env.OWNER_NUMBER || "256744934812",
+          OWNER_NUMBER: process.env.OWNER_NUMBER || "221768249039",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "Lucky 218",
+OWNER_NAME: process.env.OWNER_NAME || "omar-2234",
 // add bot owner name
 
               DESCRIPTION: process.env.DESCRIPTION || "*© Powered By Lucky Tech Hub*",
@@ -107,7 +107,7 @@ OWNER_NAME: process.env.OWNER_NAME || "Lucky 218",
    READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
 
-     DEV: process.env.DEV || "256789966218",
+     DEV: process.env.DEV || "221768249039",
 //replace with your whatsapp number    
     
     ANTI_VV: process.env.ANTI_VV || "true",
