@@ -72,7 +72,7 @@ LINK_WHITELIST: "youtube.com,github.com",
           OWNER_NUMBER: process.env.OWNER_NUMBER || "221768249039",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "omar-2234",
+OWNER_NAME: process.env.OWNER_NAME || "Lucky 218",
 // add bot owner name
 
               DESCRIPTION: process.env.DESCRIPTION || "*© Powered By Lucky Tech Hub*",
